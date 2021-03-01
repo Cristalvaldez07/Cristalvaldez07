@@ -1,5 +1,5 @@
 ### Hola, Soy Cristal.
 Al mal tiempo, buena música.
 
-![Hola,Soy Cristal](https://user-images.githubusercontent.com/79095523/109530901-a1e44080-7a8d-11eb-9cce-f8bc3020969c.png)
+![Hola,Soy Cristal  (1)](https://user-images.githubusercontent.com/79095523/109531420-3c448400-7a8e-11eb-8297-aee1cc0f7ed4.png)
 

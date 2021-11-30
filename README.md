@@ -12,8 +12,8 @@
 </p>
 <p align='left'>
   I like to learn new things. </br>
-  I love what artificial intelligence does.
-  I love art and nature.🌼
+  I love what artificial intelligence does. </br>
+  I love art and nature.🌼 </br>
 
 </p>
 

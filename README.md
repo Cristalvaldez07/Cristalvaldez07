@@ -37,7 +37,7 @@ Estudiante tecnica
   <p align='left'>
  
      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="Cristalvaldez07" />
-  </a>&nbsp;&nbsp;
+
           
     ## GitHub Stats
 <div>

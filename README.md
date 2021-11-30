@@ -1,4 +1,4 @@
-h1 align='center'>
+<h1 align='center'>
   <strong> Hi there 👋 I'm Cristal 👱🏻‍♀️</strong>
 </h1>
 <p align='center'> 

@@ -1,18 +1,20 @@
 <h1 align='center'>
   <strong> Hi there 👋 I'm Cristal 👱🏻‍♀️</strong>
 </h1>
-<p align='center'> 
-Estudiante tecnica 
+<p align='left'> 
+ - Estudiante tecnica.
 </p>
-<p align='center'> 
+<p align='left'> 
 
   <a href="https://www.linkedin.com/in/mar%C3%ADa-cristal-valdez-leonardo-869534224/">
   <img src="https://komarev.com/ghpvc/?username=Cristalvaldez07&label=Profile%20views&color=0e75b6&style=flat" alt="Cristalvaldez07" />
 </a>
 </p>
-<p align='center'>
+<p align='left'>
   I like to learn new things. </br>
   I love what artificial intelligence does.
+  I love art and nature.🌼
+
 </p>
 
 <p align='center'>

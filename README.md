@@ -17,7 +17,7 @@
 
 </p>
 
-<p align='center'>
+<p align='left'>
   
   <a href="https://www.linkedin.com/in/mar%C3%ADa-cristal-valdez-leonardo-869534224/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />

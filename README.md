@@ -2,7 +2,7 @@
   <strong> Hi there 👋 I'm Cristal 👱🏻‍♀️</strong>
 </h1>
 <p align='left'> 
-### Professional Technician Student. 
+Professional Technician Student. 
 </p>
 <p align='left'> 
 

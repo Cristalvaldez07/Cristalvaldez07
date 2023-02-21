@@ -11,9 +11,7 @@ Professional Technician Student.
 </a>
 </p>
 <p align='left'>
-  I like to learn new things. </br>
-  I love what artificial intelligence does. </br>
-  I love art and nature.🌼 </br>
+  I'm just a girl who likes technology and is trying to learn new things.🌼
 
 </p>
 
